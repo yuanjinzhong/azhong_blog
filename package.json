@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "vuepress学习",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:deploy":"这里放提交到github上的脚本"
+  },
+  "keywords": [],
+  "author": "yuanjinzhong",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
