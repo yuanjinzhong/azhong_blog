@@ -40,8 +40,6 @@ module.exports = {
     //侧边栏
     sidebar: [
       ['/', '首页'],
-      //路径不存在的话vue会渲染报错
-      ['/blog/FirstBlog.md', '页面A'],
       ['/blog/java基础/static关键字.md', 'static关键字'],
       ['/blog/mybatis/mybatis.md', 'mybatis学习']
     ]
