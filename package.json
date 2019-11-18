@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "docs:deploy":"这里放提交到github上的脚本"
+    "docs:deploy": "这里放提交到github上的脚本"
   },
   "keywords": [],
   "author": "yuanjinzhong",
