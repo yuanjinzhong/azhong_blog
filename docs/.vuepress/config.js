@@ -2,6 +2,11 @@ module.exports = {
   title: 'AZHONG',
   description: '学海无涯,真香!',
   themeConfig: {
+    // // 1.接受字符串，它设置了最后更新时间的label，例如：最后更新时间：2019年5月3日 21:51:53
+    // lastUpdated: '最后更新时间',
+    // // 2.设置true，开启最后更新时间
+    // lastUpdated: true,
+    lastUpdated: '上次更新',
     // GitHub仓库地址
     repo: 'https://github.com/yuanjinzhong',
     // 自定义仓库链接文字。
