@@ -29,7 +29,7 @@ module.exports = {
       ['/', '首页'],
       ['/blog/java基础/static关键字.md', 'static关键字'],
       ['/blog/mybatis/mybatis.md', 'mybatis学习'],
-      ['/blog/FirstBlog.md', '特性测试'],
+      ['/blog/特性测试.md', '特性测试'],
       ['/blog/养猪场.md', '平安养殖场']
     ]
   }

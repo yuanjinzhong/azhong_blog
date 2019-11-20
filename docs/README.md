@@ -3,7 +3,7 @@ home: true
 # 这个图片是以public目录为基准的,以我们常规的相对路径是找不到这个图片的
 heroImage: /img/哈士奇.png
 actionText: 随便看看 →
-actionLink: /blog/FirstBlog.md
+actionLink: /blog/特性测试.md
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

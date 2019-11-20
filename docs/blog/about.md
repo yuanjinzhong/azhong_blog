@@ -9,7 +9,7 @@
 
 # Hexo主题hexo-theme-huweihuang 的效果图
 
+ [^_^]: #(这个图片是以public目录为基准的,以我们常规的相对路径是找不到这个图片的)
 ![hexo-theme-huweihuang](/img/huweihuang-theme.png)
-
 # 用别人开源的主题总归要推广一下吧
-https://github.com/huweihuang/hexo-theme-huweihuang
+[https://github.com/huweihuang/hexo-theme-huweihuang](https://github.com/huweihuang/hexo-theme-huweihuang "huweihuang-theme")
